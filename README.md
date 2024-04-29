@@ -1,4 +1,4 @@
-- 👋 Olá, Me chamo Alexandre Mallorca e tenho 23 anos. ^^
+- 👋 Olá, Me chamo Alexandre Mallorca e tenho 26 anos. ^^
 - 👀 Estou aqui para compatilhar alguns codigos e criar um banco com todos meus códigos e progressos.
 - 🌱 Atualmente estou estudando Phyton e um pouco de JAVA script e HTML.
 - 📫 Caso precise, meu contato é Alexandremallorca.s@gmail.com
