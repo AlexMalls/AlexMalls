@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou me especializando em PhytonL.
 - 📫 Caso precise, meu contato é Alexandremallorca.s@gmail.com
 -
-- 👋 Hi, My name is Alexandre Mallorca, i'm 23 years old.
+- 👋 Hi, My name is Alexandre Mallorca, i'm 26 years old.
 - 👀 I’m interested in share my codes.
 - 🌱 I'm currently specializing in Python.
 - 📫 If you need, you can reach me at Alexandremallorca.s@gmail.com
